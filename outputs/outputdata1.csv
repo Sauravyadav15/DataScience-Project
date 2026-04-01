@@ -1,0 +1,9 @@
+window_start_sample,window_start_time_s,label
+0,0.0,jumping
+1000,2.5,jumping
+2000,5.0,jumping
+3000,7.5,jumping
+4000,10.0,jumping
+5000,12.5,jumping
+6000,15.0,jumping
+7000,17.5,walking
