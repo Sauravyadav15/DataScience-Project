@@ -16,29 +16,7 @@ Machine learning model for activity classification
 Real-time prediction from live sensor input
 Visualization of sensor data and outputs
 
-Project Structure
 
-ELEC292_PROJECT/
-│── data/
-│ ├── raw/ Raw sensor data
-│ ├── preprocessed/ Cleaned data
-│
-│── models/
-│ ├── model.joblib Trained ML model
-│ ├── scaler.joblib Feature scaler
-│
-│── outputs/
-│ ├── outputdata1.csv Prediction outputs
-│
-│── app.py Main application
-│── realtime_app.py Real-time prediction
-│── classifier.py Model training
-│── features.py Feature extraction
-│── segmentation.py Data segmentation
-│── preprocessed.py Data preprocessing
-│── visualization.py Data visualization
-│── dataset.h5 Dataset
-│── requirements.txt Dependencies
 
 How It Works
 
